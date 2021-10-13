@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://C:/Program Files/java/javafx-sdk-17.0.0.1/lib" />
+      <root url="jar://C:/sqlll/sqlite-jdbc-3.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/sqlll/sqlite-jdbc-3.7.2.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/java/javafx-sdk-17.0.0.1/lib" recursive="false" />
+  </library>
+</component>
